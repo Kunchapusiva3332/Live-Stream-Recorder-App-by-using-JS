@@ -30,4 +30,16 @@ A browser-based multimedia application built with **JavaScript**, **HTML5**, and
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Kunchapusiva3332/Live-Stream-Recorder-App-by-using-JS.git 
+   git clone https://github.com/Kunchapusiva3332/Live-Stream-Recorder-App-by-using-JS.git
+
+---- 
+2. Navigate to the project folder:
+   cd Live-Stream-Recorder-App-by-using-JS
+
+   - Open index.html in your browser to run the app.
+3.📸 Usage
+   - Click the Record button to start/stop video recording.
+   - Click the Capture button to take a photo.
+   - Use the Filter options to style your video/photo.
+   - Download your media with the provided buttons.
+
