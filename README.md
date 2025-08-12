@@ -1,6 +1,3 @@
-# Live-Stream-Recorder-App-by-using-JS
-A browser-based Live Stream Recorder app built with JavaScript, HTML5, and CSS3. Features include real-time video streaming, video recording, photo capture, and filter effects using MediaRecorder and Canvas APIs
-
 # 🎥 Live Stream Recorder App using JavaScript
 
 A browser-based multimedia application built with **JavaScript**, **HTML5**, and **CSS3**. This app allows users to stream live video from their webcam, record video clips, capture photos, and apply stylish filters—all directly in the browser without any external software.
