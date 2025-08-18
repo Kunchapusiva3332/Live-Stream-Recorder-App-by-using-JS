@@ -42,4 +42,6 @@ A browser-based multimedia application built with **JavaScript**, **HTML5**, and
    - Click the Capture button to take a photo.
    - Use the Filter options to style your video/photo.
    - Download your media with the provided buttons.
+vercel app link
+https://live-stream-recorder-app.vercel.app/
 
